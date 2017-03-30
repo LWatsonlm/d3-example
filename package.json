@@ -1,0 +1,15 @@
+{
+  "name": "d3",
+  "version": "1.0.0",
+  "description": "D3 example for NCI",
+  "main": "index.js",
+  "dependencies": {
+    "d3-geo": "^1.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Latoya Watson",
+  "license": "ISC"
+}
